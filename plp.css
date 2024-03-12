@@ -1,0 +1,15 @@
+#{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+body{
+    background-image: url(black-5296631.jpg);
+    background-size: cover;
+    background-repeat: none;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.div nav{
+    text-decoration: none;
+}
